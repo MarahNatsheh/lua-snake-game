@@ -31,7 +31,7 @@ It was created as part of a Lua Game Programming assignment.
 ## 🎮 Play Now
 
 Download the game file:
-👉 [snake_game.love](snake_game.love)
+👉 [snake_game.love](snake_game.love.zip)
 
 Drag it onto [LÖVE2D](https://love2d.org/) to play.
 
